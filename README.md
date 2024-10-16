@@ -1,2 +1,2 @@
 # IBMDS
-IBMDS Repository
+IBMDS Repository for Assignment Submission
